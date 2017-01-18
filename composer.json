@@ -1,0 +1,18 @@
+{
+    "name": "acme/library",
+    "description": "Bibliothèque de prêt de livre.",
+    "type": "project",
+    "require": {
+        "swiftmailer/swiftmailer": "^5.4",
+        "monolog/monolog": "^1.22"
+    },
+    "require-dev": {
+        "raveren/kint": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Gaetan Pralong",
+            "email": "gaetan@gaetan.io"
+        }
+    ]
+}
